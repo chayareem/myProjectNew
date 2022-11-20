@@ -1,0 +1,9 @@
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.deps.json
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.AssemblyInfoInputs.cache
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.AssemblyInfo.cs
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.csproj.CoreCompileInputs.cache
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.dll
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.csproj.AssemblyReference.cache

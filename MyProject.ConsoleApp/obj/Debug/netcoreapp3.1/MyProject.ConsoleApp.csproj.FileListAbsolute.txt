@@ -1,0 +1,26 @@
+E:\לימודים\השנה!!!!!\דוטנט\שב\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.exe
+E:\לימודים\השנה!!!!!\דוטנט\שב\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.deps.json
+E:\לימודים\השנה!!!!!\דוטנט\שב\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.json
+E:\לימודים\השנה!!!!!\דוטנט\שב\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.dev.json
+E:\לימודים\השנה!!!!!\דוטנט\שב\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+E:\לימודים\השנה!!!!!\דוטנט\שב\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+E:\לימודים\השנה!!!!!\דוטנט\שב\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.AssemblyReference.cache
+E:\לימודים\השנה!!!!!\דוטנט\שב\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfoInputs.cache
+E:\לימודים\השנה!!!!!\דוטנט\שב\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfo.cs
+E:\לימודים\השנה!!!!!\דוטנט\שב\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\לימודים\השנה!!!!!\דוטנט\שב\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+E:\לימודים\השנה!!!!!\דוטנט\שב\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+E:\לימודים\השנה!!!!!\דוטנט\שב\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.genruntimeconfig.cache
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.exe
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.deps.json
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.json
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.dev.json
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.AssemblyReference.cache
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfoInputs.cache
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfo.cs
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.CoreCompileInputs.cache
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+Y:\Groups\1\ראם חיה צפורה\דוטנט\שב\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.genruntimeconfig.cache
